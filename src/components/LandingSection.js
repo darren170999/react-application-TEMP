@@ -17,7 +17,7 @@ const LandingSection = () => (
   >
     <VStack>
       {" "}
-      <Avatar size='2xl' src='/avatar.png'>
+      <Avatar size='2xl' src='../avatar.png'>
         {" "}{" "}
       </Avatar>
       <h1 style={{color: "#F7B600"}}>{greeting}</h1>
